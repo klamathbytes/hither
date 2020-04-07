@@ -1,4 +1,4 @@
-# Quid Est
+# Hither
 
 A new search engine.
 
