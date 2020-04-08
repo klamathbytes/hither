@@ -1,4 +1,4 @@
-# Hither
+# Thither
 
 A new search engine.
 
